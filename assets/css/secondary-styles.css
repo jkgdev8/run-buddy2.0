@@ -37,6 +37,6 @@
 }
 
 .secondary-content li {
-  color: #39a6b2;
+  color: var(--2ndcolor);
   margin: 10px 0;
 }
